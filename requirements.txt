@@ -1,0 +1,5 @@
+flask
+google-genai
+requests
+beautifulsoup4
+gunicorn
